@@ -1,0 +1,11 @@
+com\nagarro\itemmanagement\model\User.class
+com\nagarro\itemmanagement\dao\ImageDao.class
+com\nagarro\itemmanagement\model\Image_.class
+com\nagarro\itemmanagement\daoservice\UserDaoService.class
+com\nagarro\itemmanagement\model\Image.class
+com\nagarro\itemmanagement\dao\UserDao.class
+com\nagarro\itemmanagement\daoservice\ImageDaoService.class
+com\nagarro\itemmanagement\utility\HibernateUtil.class
+com\nagarro\itemmanagement\model\User_.class
+com\nagarro\itemmanagement\constants\Constants.class
+com\nagarro\itemmanagement\controller\LoginServlet.class
